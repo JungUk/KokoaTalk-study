@@ -1,0 +1,15 @@
+.more-screen .icon-row {
+  margin-top: 35px;
+  margin-bottom: 10px;
+}
+
+.more-screen .icon-row{ 
+  justify-content:unset;
+  flex-wrap: wrap;
+}
+
+.more-screen .icon-row__icon {
+  width: 25%;
+  padding: 5px;
+  box-sizing: border-box;
+}
