@@ -13,3 +13,13 @@
   padding: 5px;
   box-sizing: border-box;
 }
+
+.more-suggestions {
+  margin-top: 50px;
+  border-top: var(--main-border);
+  padding-top: 20px;
+}
+
+.more-suggestions__title {
+  margin-bottom: 20px;
+}
